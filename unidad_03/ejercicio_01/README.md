@@ -1,5 +1,5 @@
 # OB_Curso_de_HTML_y_CSS
-## Unidad 2 - Ejercicio 1
+## Unidad 3 - Ejercicio 1
 
 ```
 Crea un nuevo documento HTML que cumpla los siguientes parámetros:
