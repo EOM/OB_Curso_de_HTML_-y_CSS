@@ -1,0 +1,4 @@
+ul li#elemento-1, ol li#super-1 {
+    color: red;
+    font-size: 2rem;
+}
