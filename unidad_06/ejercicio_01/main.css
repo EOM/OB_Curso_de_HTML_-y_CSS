@@ -1,0 +1,13 @@
+button{
+    width: 200px;
+}
+button::after{
+    content: 'Pasa por encimas';
+}
+button:hover{
+    color: white;
+    background-color: red;
+}
+button:hover::after{
+    content: '¡Hecho!';
+}
